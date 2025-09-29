@@ -1,7 +1,8 @@
+# INICIO
 Primero hemos empezando creando el nombre de la pagina web con sus respetivos códigos despues hicimos una presentacion y pusimos una imagen de lo que representa robotica para nosotros.
 despues hicimos carpetas.La primera seria imagenes donde van todas las imagenes, la segunda es pasos previos donde habia que crear un readme para escribir esto.Y por ultimo una subcarpeta de imagenes donde ponemos las fotos que hemos echo.
 una de esas fotos es un codigo de luces intermitentes con su codigo y su forma
-# CODIGO DE TINKERCAD
+# CODIGO DE TINKERCAD Y SU EXPLICACION
 <img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/5281ac29-472b-4d43-8ba1-a327870bf450" />
 
 Para esto hemos tenido que hacer un codigo que es el siguiente
