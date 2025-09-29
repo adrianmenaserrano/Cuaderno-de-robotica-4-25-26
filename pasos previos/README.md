@@ -4,3 +4,5 @@ una de esas fotos es un codigo de luces intermitentes con su codigo y su forma
 # CODIGO DE TINKERCAD
 <img width="568" height="457" alt="image" src="https://github.com/user-attachments/assets/5281ac29-472b-4d43-8ba1-a327870bf450" />
 
+Para esto hemos tenido que hacer un codigo que es el siguiente
+<img width="332" height="383" alt="image" src="https://github.com/user-attachments/assets/30ae8b77-d8ad-4919-b8d4-71a6325249ac" />
