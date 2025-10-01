@@ -14,3 +14,5 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 1 El void set up su función es ejecutar código de configuración una sola vez al inicio del programa.
 
 2 El void loop lo que hace es generar un bucle en el comando.
+
+3 El int es el condicional
