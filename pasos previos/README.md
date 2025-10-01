@@ -8,3 +8,6 @@ una de esas fotos es un codigo de luces intermitentes con su codigo y su forma.
 Para esto hemos tenido que hacer un codigo que es el siguiente
 
 <img width="332" height="383" alt="image" src="https://github.com/user-attachments/assets/30ae8b77-d8ad-4919-b8d4-71a6325249ac" />
+
+Lo que hace este codigo es generar un bucle entre dos diodolod led que se van intercambiando entre encendido y apagado probocando un efecto de luces intermitentes.
+El void set up
