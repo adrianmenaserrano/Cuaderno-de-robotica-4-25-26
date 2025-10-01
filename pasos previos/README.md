@@ -17,4 +17,6 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 3 El int: es una condicional de una variable que almacena números enteros
 
-4
+4 El pingmode: es la seleccion de numeros que has elejido en una placa Arduino
+
+5
