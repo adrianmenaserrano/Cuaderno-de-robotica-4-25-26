@@ -11,5 +11,5 @@ Para esto hemos tenido que hacer un codigo que es el siguiente
 
 Lo que hace este codigo es generar un bucle entre dos diodo led que se van intercambiando entre encendido y apagado provocando un efecto de luces intermitentes.
 
-El void set up su función es ejecutar código de configuración una sola vez al inicio del programa.
--
+1 El void set up su función es ejecutar código de configuración una sola vez al inicio del programa.
+2 El void lo
