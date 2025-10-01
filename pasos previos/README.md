@@ -19,4 +19,4 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 4 El pingmode: es la seleccion de numeros que has elejido en una placa Arduino
 
-5 El digitalwrite: 
+5 El digitalwrite: es  una escritura digital :)
