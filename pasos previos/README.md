@@ -23,4 +23,6 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 6 Los botones HIGH y LOW: En la programacion HIGH es encendido y LOW apagado
 
-7
+7 Delay: es el tiempo de espera que le pones a un comando 
+
+8
