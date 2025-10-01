@@ -25,4 +25,4 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 7 Delay: es el tiempo de espera que le pones a un comando 
 
-8
+8 Serial begin: es un indicador de velocidad 
