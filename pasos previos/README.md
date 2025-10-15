@@ -32,41 +32,8 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 Esta es la imagen de lo que tendria que tener la placa arduino para que funcionase el pulsador que esta compuesto por un. Cables,diodos LED, resistencias y un pulsador.
 ## Segunda parte: su codigo y como funciona
-// C++ code
-//
-int pin6=6;   
-int pin7=7;
-int pin3=3;
-int valor2;
+<img width="293" height="450" alt="image" src="https://github.com/user-attachments/assets/c8bb4e9f-ecfd-4634-b285-cc2f242560da" />
 
-void setup() {
-  pinMode(pin7, INPUT);   
-  pinMode(pin6, OUTPUT);
-  pinMode(pin3, OUTPUT);
-  Serial.begin(9600);        
-} 
-                      
-void loop(){ 
-   valor2 = digitalRead(pin7);
-          
-          
-
-
-if (valor2 == HIGH){  
-    digitalWrite(pin6, HIGH); 
-  digitalWrite(pin3, LOW);
-    Serial.println("Pulsado");
-}   
- 
- if (valor2 == LOW) { 
-    digitalWrite(pin6, LOW);
-   digitalWrite(pin3,HIGH);
-    Serial.println("No Pulsado");
-      valor2 = digitalRead(pin7); 
-  
-  
-}   
-}
 ## El codigo funciona de la siguiente manera:
 1 Se inicia el codigo y una LED se enciende gracias los pines 3 y 6 que estan en OUTPUT
 
