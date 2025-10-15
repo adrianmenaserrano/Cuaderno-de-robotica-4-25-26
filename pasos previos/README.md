@@ -27,7 +27,7 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 8 Serial begin: es un indicador de velocidad 
 
-9 El if: Es el que indica un bloque la funcion que tiene que hacer.
+9 El if: Es el que indica a un bloque la funcion que tiene que hacer.
 ## Primera parte: Su conexiones
 <img width="638" height="491" alt="image" src="https://github.com/user-attachments/assets/d973f853-685a-48c2-afc5-de1669b71147" />
 
