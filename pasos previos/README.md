@@ -26,7 +26,7 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 7 Delay: es el tiempo de espera que le pones a un comando 
 
 8 Serial begin: es un indicador de velocidad 
-#El pulsador
+
 ## Primera parte: Su conexiones
 <img width="638" height="491" alt="image" src="https://github.com/user-attachments/assets/d973f853-685a-48c2-afc5-de1669b71147" />
 
