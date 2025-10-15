@@ -29,6 +29,7 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 #El pulsador
 ## Primera parte: Su conexiones
 <img width="638" height="491" alt="image" src="https://github.com/user-attachments/assets/d973f853-685a-48c2-afc5-de1669b71147" />
+
 Esta es la imagen de lo que tendria que tener la placa arduino para que funcionase el pulsador que esta compuesto por un. Cables,diodos LED, resistencias y un pulsador.
 ## Segunda parte: su codigo y como funciona
 // C++ code
@@ -66,8 +67,8 @@ if (valor2 == HIGH){
   
 }   
 }
-El codigo funciona de la siguiente manera:
-1 Se inicia el codigo y una led se enciende
-2 Al encenderse el primer led el segundo permanece apagado.
-3 Activas/pulsas el pulsador
-4 Al pulsar el pulsador el primer  led se enciende y el otro se apaga probocando que se conviertan en luces intermitentes.
+## El codigo funciona de la siguiente manera:
+1 Se inicia el codigo y una led se enciende gracias los pines 3 y 6 que estan en OUTPUT
+2 Al encenderse el primer led el segundo permanece apagado. eso gracias a que mientras uno esta en HIGH el otro permanecera en LOW
+3 Activas/pulsas el pulsador 
+4 Al pulsar el pulsador el primer  led se enciende y el otro se apaga probocando que se conviertan en luces intermitentes. Eso pasa por que mientras uno esta en HIGH(ON) el otro va estar en LOW(OFF) provocando que uno este encendido y otro apagado.
