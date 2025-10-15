@@ -68,10 +68,10 @@ if (valor2 == HIGH){
 }   
 }
 ## El codigo funciona de la siguiente manera:
-1 Se inicia el codigo y una led se enciende gracias los pines 3 y 6 que estan en OUTPUT
+1 Se inicia el codigo y una LED se enciende gracias los pines 3 y 6 que estan en OUTPUT
 
-2 Al encenderse el primer led el segundo permanece apagado. eso gracias a que mientras uno esta en HIGH el otro permanecera en LOW
+2 Al encenderse el primer LED el segundo permanece apagado. Eso gracias a que mientras uno esta en HIGH el otro permanecera en LOW
 
 3 Activas/pulsas el pulsador 
 
-4 Al pulsar el pulsador el primer  led se enciende y el otro se apaga probocando que se conviertan en luces intermitentes. Eso pasa por que mientras uno esta en HIGH(ON) el otro va estar en LOW(OFF) provocando que uno este encendido y otro apagado.
+4 Al pulsar el pulsador el primer LED se enciende y el otro se apaga probocando que se conviertan en luces intermitentes. Eso pasa por que mientras uno esta en HIGH(ON) el otro va estar en LOW(OFF) provocando que uno este encendido y otro apagado.
