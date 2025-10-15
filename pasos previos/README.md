@@ -27,6 +27,7 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 
 8 Serial begin: es un indicador de velocidad 
 
+9 El if: Es el que indica un bloque la funcion que tiene que hacer.
 ## Primera parte: Su conexiones
 <img width="638" height="491" alt="image" src="https://github.com/user-attachments/assets/d973f853-685a-48c2-afc5-de1669b71147" />
 
@@ -42,3 +43,5 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 3 Activas/pulsas el pulsador 
 
 4 Al pulsar el pulsador el primer LED se enciende y el otro se apaga probocando que se conviertan en luces intermitentes. Eso pasa por que mientras uno esta en HIGH(ON) el otro va estar en LOW(OFF) provocando que uno este encendido y otro apagado.
+
+5 Que es el if: Es el que indica un bloque la funcion que tiene que hacer.
