@@ -45,3 +45,8 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 4 Al pulsar el pulsador el primer LED se enciende y el otro se apaga probocando que se conviertan en luces intermitentes. Eso pasa por que mientras uno esta en HIGH(ON) el otro va estar en LOW(OFF) provocando que uno este encendido y otro apagado.
 
 5 Que es el if: Es el que indica un bloque la funcion que tiene que hacer.
+
+# Mapeado de los circuitos
+## CIRCUITO NUMERO 1
+<img width="1517" height="577" alt="circuito 1" src="https://github.com/user-attachments/assets/2a5dda98-f4e9-46d9-866a-559c7ec27f95" />
+
