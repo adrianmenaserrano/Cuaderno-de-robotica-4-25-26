@@ -49,6 +49,7 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 # Mapeado de los circuitos
 ## CIRCUITO NUMERO 1
 <img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
+
 Lo que hace este circuito es al encenderse se encinde un potenciometro que mientrasestes girando su ruedecita sube o baja la intensidad de la luz del diodo led
 
 ## Su codigo:
