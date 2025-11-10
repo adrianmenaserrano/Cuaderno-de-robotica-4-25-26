@@ -48,9 +48,11 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 
 # Mapeado de los circuitos
 ## CIRCUITO NUMERO 1
-<img width="1366" height="510" alt="image" src="https://github.com/user-attachments/assets/f1cb3fb0-fb52-4d7b-8a56-6bda777b0720" />
+<img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
 Lo que hace este circuito es al encenderse se encinde un diodo led y el otro se apaga y cuando el otro se enciende el otro se apaga provocando un efecto de luces intermitentes.
+
 ## Su codigo:
+
 <img width="327" height="401" alt="image" src="https://github.com/user-attachments/assets/ba36b74a-4372-444a-879e-65e7d5d270ef" />0
 primero se ponen los dos pin modes al poner los pin modes se les pone en un lop que lo que hace es que se encienda uno y el otro se apage y cuando el otro se encienda se apague el otro
 
