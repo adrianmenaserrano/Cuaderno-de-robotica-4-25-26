@@ -48,5 +48,6 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 
 # Mapeado de los circuitos
 ## CIRCUITO NUMERO 1
-<img width="1517" height="577" alt="circuito 1" src="https://github.com/user-attachments/assets/2a5dda98-f4e9-46d9-866a-559c7ec27f95" />
+<img width="1366" height="510" alt="image" src="https://github.com/user-attachments/assets/f1cb3fb0-fb52-4d7b-8a56-6bda777b0720" />
+
 
