@@ -49,11 +49,24 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 # Mapeado de los circuitos
 ## CIRCUITO NUMERO 1
 <img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
-Lo que hace este circuito es al encenderse se encinde un diodo led y el otro se apaga y cuando el otro se enciende el otro se apaga provocando un efecto de luces intermitentes.
+Lo que hace este circuito es al encenderse se encinde un potenciometro que mientrasestes girando su ruedecita sube o baja la intensidad de la luz del diodo led
 
 ## Su codigo:
+<img width="242" height="288" alt="image" src="https://github.com/user-attachments/assets/1f359632-80a2-4811-ae53-3d6f6154245c" />
 
-<img width="327" height="401" alt="image" src="https://github.com/user-attachments/assets/ba36b74a-4372-444a-879e-65e7d5d270ef" />0
-primero se ponen los dos pin modes al poner los pin modes se les pone en un lop que lo que hace es que se encienda uno y el otro se apage y cuando el otro se encienda se apague el otro
+lo que hace es crear un bucle que mientras más gires la ruedecita para un lado o para el otro mas sube su intensidad o se disminuye
+
+## Foto de la prueba
+![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
+
+# Fotos del nuevo robot de ultrasonido.
+![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)
+
+![Imagen de WhatsApp 2025-11-10 a las 13 39 47_25341bec](https://github.com/user-attachments/assets/5a12fe5c-4ea7-4bde-b406-cf954ceabdfe)
+
+![Imagen de WhatsApp 2025-11-10 a las 13 39 47_9e56d25e](https://github.com/user-attachments/assets/ebc767fb-10dc-4ff9-8df1-b0ca925ea88f)
+
+
+
 
 
