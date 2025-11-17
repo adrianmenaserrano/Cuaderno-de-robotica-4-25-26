@@ -58,16 +58,15 @@ Lo que hace este circuito es al encenderse se encinde un potenciometro que mient
 lo que hace es crear un bucle que mientras más gires la ruedecita para un lado o para el otro mas sube su intensidad o se disminuye
 
 
+# MAPEADO DEL POTENCIOMETRO
+<img width="1411" height="518" alt="Programación mapeado (1)" src="https://github.com/user-attachments/assets/f092bf70-f3d6-4b76-83bf-fc8848d7ce59" />
+## Foto de la prueba
+![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
+
 # COMO FUNCIONA EL ULTRASONIDO Y SU CODIGO
 Este programa usa un sensor ultrasónico,para medir distancias.Primero configura los pines TRIG y ECHO, y luego crea un objeto llamado Tripitropi que se encarga de manejar el sensor.(corregido por chatGPT)
 
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
-
-
-## Foto de la prueba
-![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
-# MAPEADO DEL POTENCIOMETRO
-<img width="1411" height="518" alt="Programación mapeado (1)" src="https://github.com/user-attachments/assets/f092bf70-f3d6-4b76-83bf-fc8848d7ce59" />
 ## Fotos del nuevo robot de ultrasonido.
 ![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)
 
