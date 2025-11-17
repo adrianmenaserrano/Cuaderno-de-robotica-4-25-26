@@ -60,6 +60,7 @@ lo que hace es crear un bucle que mientras más gires la ruedecita para un lado 
 
 # MAPEADO DEL POTENCIOMETRO
 <img width="1411" height="518" alt="Programación mapeado (1)" src="https://github.com/user-attachments/assets/f092bf70-f3d6-4b76-83bf-fc8848d7ce59" />
+
 ## Foto de la prueba
 ![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
 
