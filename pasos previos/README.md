@@ -68,6 +68,7 @@ Este programa usa un sensor ultrasónico,para medir distancias.Primero configura
 
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
 ## Fotos del nuevo robot de ultrasonido.
+
 ![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)
 
 ![Imagen de WhatsApp 2025-11-10 a las 13 39 47_25341bec](https://github.com/user-attachments/assets/5a12fe5c-4ea7-4bde-b406-cf954ceabdfe)
