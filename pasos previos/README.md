@@ -67,6 +67,7 @@ lo que hace es crear un bucle que mientras más gires la ruedecita para un lado 
 Este programa usa un sensor ultrasónico,para medir distancias.Primero configura los pines TRIG y ECHO, y luego crea un objeto llamado Tripitropi que se encarga de manejar el sensor.(corregido por chatGPT)
 
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
+
 ## Fotos del nuevo robot de ultrasonido.
 
 ![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)
