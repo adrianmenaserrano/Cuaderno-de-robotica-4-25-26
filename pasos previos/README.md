@@ -28,7 +28,7 @@ Lo que hace este codigo es generar un bucle entre dos diodo led que se van inter
 8 Serial begin: es un indicador de velocidad 
 
 9 El if: Es una condicional que indica a un bloque la funcion que tiene que hacer.
-## Primera parte: Su conexiones
+## Pulsador.
 <img width="638" height="491" alt="image" src="https://github.com/user-attachments/assets/d973f853-685a-48c2-afc5-de1669b71147" />
 
 Esta es la imagen de lo que tendria que tener la placa arduino para que funcionase el pulsador que esta compuesto por un. Cables,diodos LED, resistencias y un pulsador.
@@ -47,7 +47,7 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 5 Que es el if: Es el que indica un bloque la funcion que tiene que hacer.
 
 # Mapeado de los circuitos
-## CIRCUITO NUMERO 1
+##  Potenciómetro. Monitor serie.
 <img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
 
 Lo que hace este circuito es al encenderse se encinde un potenciometro que mientrasestes girando su ruedecita sube o baja la intensidad de la luz del diodo led
