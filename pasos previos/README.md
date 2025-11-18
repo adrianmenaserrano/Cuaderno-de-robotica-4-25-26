@@ -65,7 +65,11 @@ lo que hace es crear un bucle que mientras más gires la ruedecita para un lado 
 ![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
 
 # COMO FUNCIONA EL ULTRASONIDO Y SU CODIGO
-Este programa usa un sensor ultrasónico,para medir distancias.Primero configura los pines TRIG y ECHO, y luego crea un objeto llamado Tripitropi que se encarga de manejar el sensor.(corregido por chatGPT)
+ Este programa empezaria con unas variables que son: el int que declara variables .El pin6, pin7 y pin3 que son variables que almacenan los números de los pines digitales .Y el valor2 que son variable para guardar el valor leído del pin 7 (puede ser HIGH o LOW). Luego seguiria con el voidSETUP que dentro tendria los pinMode. Si un pin será entrada (INPUT) o salida (OUTPUT).
+pin7 como entrada: leerá datos.pin6 y pin3 como salida: controlarán dispositivos (ejemplo: LEDs, relés). Y ya por ultimo seria el serialbegin (9600) que inicia para poder enviar mensajes a una computadora u otro dispositivo conectado.
+
+
+
 
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
 
