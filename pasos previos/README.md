@@ -65,7 +65,7 @@ Lo que hace es crear un bucle que mientras más gires el potenciometro para un l
 ![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
 
 # COMO FUNCIONA EL ULTRASONIDO Y SU CODIGO
-  El codigo empieza con el int con el cual tiene dos variables que son los siguientes:TRIG_PIN (pin 7) y ECHO_PIN (pin 8): Recibe la señal que indica la distancia.Luego se crea un objeto Ultrasonic, llamado Tripitopi, configurado con los pines y un tiempo de espera. El voidsetup hace que inicia la comunicación serial a 9600 baudios. Y la funcion loop
+  El codigo empieza con el int con el cual tiene dos variables que son los siguientes:TRIG_PIN (pin 7) y ECHO_PIN (pin 8): Recibe la señal que indica la distancia.Luego se crea un objeto Ultrasonic, llamado Tripitopi, configurado con los pines y un tiempo de espera. El voidsetup hace que inicia la comunicación serial a 9600 baudios. Y la funcion loop hace que al medir con la variable tripitropi marque la distancia que hay del ultrasonido asta la pared mediante el mapeado de su respectivo codigo
 
 
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
