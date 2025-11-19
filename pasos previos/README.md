@@ -61,7 +61,7 @@ Lo que hace es crear un bucle que mientras más gires el potenciometro para un l
 
 # MAPEADO DEL POTENCIOMETRO
 <img width="1411" height="518" alt="Programación mapeado (1)" src="https://github.com/user-attachments/assets/f092bf70-f3d6-4b76-83bf-fc8848d7ce59" />
-Lo que hacemos en este caso es usar un destornillador para ir girando el potenciometro para que vaya subiendo o bajando la intensidad del potenciometro
+Lo que hacemos en este caso es usar un destornillador para ir girando el potenciometro para que vaya subiendo o bajando la intensidad del potenciometro haciendo que aparezcan números dependiendo si la intesidad sube o bajan(El nuestro más alto era de 1023 y el más bajo era de 3)
 
 ## Foto de la prueba
 
