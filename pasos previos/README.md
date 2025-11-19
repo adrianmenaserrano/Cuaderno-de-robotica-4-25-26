@@ -50,7 +50,6 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 ##  Potenciómetro. Monitor serie.
 <img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
 
-
 Lo que hace este circuito es al encenderse se encinde un potenciometro que mientrasestes girando su ruedecita sube o baja la intensidad de la luz del diodo led
 
 
@@ -63,7 +62,9 @@ Lo que hace es crear un bucle que mientras más gires el potenciometro para un l
 # MAPEADO DEL POTENCIOMETRO
 <img width="1411" height="518" alt="Programación mapeado (1)" src="https://github.com/user-attachments/assets/f092bf70-f3d6-4b76-83bf-fc8848d7ce59" />
 Lo que hacemos en este caso es usar un destornillador para ir girando el potenciometro para que vaya subiendo o bajando la intensidad del potenciometro
+
 ## Foto de la prueba
+
 ![Imagen de WhatsApp 2025-11-10 a las 13 00 57_f36aacb7](https://github.com/user-attachments/assets/6c0329a7-2b43-4706-8064-9d5566f1e79b)
 
 # COMO FUNCIONA EL ULTRASONIDO Y SU CODIGO
