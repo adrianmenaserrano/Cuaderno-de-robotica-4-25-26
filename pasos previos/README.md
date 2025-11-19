@@ -55,7 +55,7 @@ Lo que hace este circuito es al encenderse se encinde un potenciometro que mient
 ## Su codigo:
 <img width="242" height="288" alt="image" src="https://github.com/user-attachments/assets/1f359632-80a2-4811-ae53-3d6f6154245c" />
 
-lo que hace es crear un bucle que mientras más gires la ruedecita para un lado o para el otro mas sube su intensidad o se disminuye
+Lo que hace es crear un bucle que mientras más gires el potenciometro para un lado o para el otro  sube más su intensidad o se disminuye.
 
 
 # MAPEADO DEL POTENCIOMETRO
