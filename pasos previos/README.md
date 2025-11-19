@@ -50,7 +50,9 @@ Esta es la imagen de lo que tendria que tener la placa arduino para que funciona
 ##  Potenciómetro. Monitor serie.
 <img width="678" height="481" alt="image" src="https://github.com/user-attachments/assets/2d8a59c6-3f11-4b60-ba9e-3abe0eb3f62d" />
 
+
 Lo que hace este circuito es al encenderse se encinde un potenciometro que mientrasestes girando su ruedecita sube o baja la intensidad de la luz del diodo led
+
 
 ## Su codigo:
 <img width="242" height="288" alt="image" src="https://github.com/user-attachments/assets/1f359632-80a2-4811-ae53-3d6f6154245c" />
