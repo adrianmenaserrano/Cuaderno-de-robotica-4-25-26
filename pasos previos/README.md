@@ -81,7 +81,7 @@ Lo que hacemos en este caso es usar un destornillador para ir girando el potenci
 
 ![Imagen de WhatsApp 2025-11-10 a las 13 39 47_9e56d25e](https://github.com/user-attachments/assets/ebc767fb-10dc-4ff9-8df1-b0ca925ea88f)
 
-
+# CONTROL DE LUMINOSIDAD CON UN ULTRASONIDO.
 
 
 
