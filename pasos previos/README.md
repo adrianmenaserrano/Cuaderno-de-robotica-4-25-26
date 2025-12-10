@@ -74,14 +74,23 @@ Lo que hacemos en este caso es usar un destornillador para ir girando el potenci
 <img width="577" height="912" alt="ultrasonido (1)" src="https://github.com/user-attachments/assets/dd2bb146-c98f-42ed-ac78-6ba560ae3d2d" />
 
 ## Fotos del nuevo robot de ultrasonido.
-
-![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)
-
-![Imagen de WhatsApp 2025-11-10 a las 13 39 47_25341bec](https://github.com/user-attachments/assets/5a12fe5c-4ea7-4bde-b406-cf954ceabdfe)
-
-![Imagen de WhatsApp 2025-11-10 a las 13 39 47_9e56d25e](https://github.com/user-attachments/assets/ebc767fb-10dc-4ff9-8df1-b0ca925ea88f)
+|parte de enfrente |  | parte de arriba |
+| - | - | - |
+|![Imagen de WhatsApp 2025-11-10 a las 13 39 46_1a110128](https://github.com/user-attachments/assets/40f0e03c-364a-40f4-96d0-877acc1529ba)||![Imagen de WhatsApp 2025-11-10 a las 13 39 47_25341bec](https://github.com/user-attachments/assets/5a12fe5c-4ea7-4bde-b406-cf954ceabdfe)||![Imagen de WhatsApp 2025-11-10 a las 13 39 47_9e56d25e](https://github.com/user-attachments/assets/ebc767fb-10dc-4ff9-8df1-b0ca925ea88f)|
 
 # CONTROL DE LUMINOSIDAD CON UN ULTRASONIDO.
+| perspectiva 1 | perspectiva 2 | codigo 1 |
+| - | - | - |
+|<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/a416d730-6da5-44a9-9fb0-613296209465" />|<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/b7485189-148d-4827-bd19-e21f57702802" />|<img width="577" height="912" alt="image" src="https://github.com/user-attachments/assets/706f7d46-3fac-409f-b5f6-b1c4046a6ef4" />|
 
+# CONTROL DE POTENCIOMETRO CON SERVOMOTOR
+## SU FOTOS DEL RESULTADO
+| perspectiva 1 | perspectiva 2 |
+|---------------|---------------|
+|![IMG_9515](https://github.com/user-attachments/assets/1ad8bf6d-47cd-432b-8df5-4a41d5cad7ec)|![IMG_9514](https://github.com/user-attachments/assets/3545b8d3-54c2-420b-815b-b407a4aede9f)|
+
+
+## SU CODIGO
+<img width="521" height="527" alt="programacion final proyecto (1)" src="https://github.com/user-attachments/assets/941c32a9-d3df-49ef-bf5f-73644ca3e8ef" />
 
 
