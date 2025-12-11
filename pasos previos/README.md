@@ -83,6 +83,7 @@ Lo que hacemos en este caso es usar un destornillador para ir girando el potenci
 | - | - | - |
 |<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/a416d730-6da5-44a9-9fb0-613296209465" />|<img width="4032" height="3024" alt="image" src="https://github.com/user-attachments/assets/b7485189-148d-4827-bd19-e21f57702802" />|<img width="577" height="912" alt="image" src="https://github.com/user-attachments/assets/706f7d46-3fac-409f-b5f6-b1c4046a6ef4" />|
 
+Lo que hace este codigo es que dependiendo de si esta más cerca o más lejos el ultrasonido de la pared el diodo LED brillara más o menos
 # CONTROL DE POTENCIOMETRO CON SERVOMOTOR
 ## SU FOTOS DEL RESULTADO
 | perspectiva 1 | perspectiva 2 |
@@ -93,4 +94,5 @@ Lo que hacemos en este caso es usar un destornillador para ir girando el potenci
 ## SU CODIGO
 <img width="521" height="527" alt="programacion final proyecto (1)" src="https://github.com/user-attachments/assets/941c32a9-d3df-49ef-bf5f-73644ca3e8ef" />
 
+Lo que hace este codigo es que dependiendo de si giramos el servomotor hacia la izquierda o hacia la derecha el microservo girara donde tu gires con el destornillador
 
