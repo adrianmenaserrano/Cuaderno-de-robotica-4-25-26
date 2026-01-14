@@ -98,10 +98,10 @@ Lo que hace este codigo es que dependiendo de si giramos el servomotor hacia la 
 
 # CONTROL DE LA POSICION DE UN SERVO CON ULTRASONIDO
 ## ¿DE QUE VA HA IR?
-Esto de lo que va ha tratar es de la union de dos codigos anteriores que son dos: 
+Esto de lo que va ha tratar. Es de la union de dos codigos anteriores los cuales son dos: 
 
 -Como funciona el ultra sonido.
 
 -Controlador del potenciometro con servomotor.
 
-Entonces una vez dicho los dos codigos que hay que usar tambien hay que unir las dos piezas de los dos robots anteriores en este caso abria que unir el ultrasonido y el potenciometro.Una vez echo falta lo más importante el resultado de todo esto y es que el robot si ve que esta más cerca de una pared que de otra se posicione hacia el medio para que las paredes que lo rodean esten todos a la misma distancia.
+Entonces una vez dicho los dos codigos que hay que unir las dos piezas de los dos robots anteriores en este caso abria que unir el ultrasonido y el servomotor.Una vez echo falta lo más importante el resultado de todo esto y es que el robot si ve que esta más cerca de una pared que de otra se posicione hacia el medio para que las paredes que lo rodean esten todos a la misma distancia y todo esto estaria marcado gracias a que el ultrasonido estaria marcando con el monitorseries y que el servomotor estaria unido a el para que vaya midiendo la distancia a su alrededor
