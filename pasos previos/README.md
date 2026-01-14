@@ -98,7 +98,7 @@ Lo que hace este codigo es que dependiendo de si giramos el servomotor hacia la 
 
 # CONTROL DE LA POSICION DE UN SERVO CON ULTRASONIDO
 ## ¿DE QUE VA HA IR?
-Esto de lo que va ha tratar. Es de la union de dos codigos anteriores los cuales son dos: 
+Esto de lo que va ha tratar es de la union de dos codigos anteriores los cuales son dos: 
 
 -Como funciona el ultra sonido.
 
