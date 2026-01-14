@@ -109,3 +109,37 @@ Entonces una vez dicho los dos codigos que hay que unir las dos piezas de los do
 ## FOTOS DE COMO QUEDARIA EL ROBOT
 | perspectiva 1 | perspectiva 2 |
 |---------------|---------------|
+
+
+## Su codigo
+#include <Ultrasonic.h>
+#include <Servo.h>
+Servo servoMotor;
+
+const int pinMotor = 5;
+int posicion = 0;
+int TRIG_PIN=7;
+int ECHO_PIN=8;
+int distancia;
+
+Ultrasonic Tripitropi (TRIG_PIN, ECHO_PIN, 60000);
+
+void setup()
+{
+  Serial.begin(9600);
+  pinMode (pinMotor, OUTPUT);
+  servoMotor.attach (pinMotor);
+  
+}
+
+void loop()
+{
+
+Serial.println (Tripitropi.Ranging(CM));
+distancia = (Tripitropi.Ranging(CM));
+posicion = map(distancia, 2, 100, 0, 180);
+servoMotor.write(posicion);
+
+delay (200);
+
+}
