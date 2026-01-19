@@ -104,7 +104,13 @@ Esto de lo que va ha tratar es de la union de dos codigos anteriores los cuales 
 
 -Controlador del potenciometro con servomotor.
 
-Entonces una vez dicho los dos codigos que hay que unir las dos piezas de los dos robots anteriores en este caso abria que unir el ultrasonido y el servomotor.Una vez echo falta lo más importante el resultado de todo esto y es que el robot si ve que esta más cerca de una pared que de otra se posicione hacia el medio para que las paredes que lo rodean esten todos a la misma distancia. Todo esto estaria marcado gracias a que el ultrasonido estaria marcando con el monitorseries y que el servomotor estaria unido a el para que vaya midiendo la distancia a su alrededor.Para ello hemos sacado la distancia minima y la maxima que llegaria ha ver el ultrasonido que son: El minimo son 2cm y el maximo son 300cm.Cuando sobrepasa los 300cm el monitor series te pondra que hay un error y que no puede llegar a medir la distancia.
+Entonces una vez dicho los dos codigos hay que unir las dos piezas de los dos robots anteriores en este caso abria que unir el ultrasonido y el servomotor.
+
+Una vez echo falta lo más importante es el resultado de todo esto y es que el gracias al servomotor este dando vueltas al ultrasonido haciendo que dependiendo si este más cerca o más lejos de un objeto o pared se vaya hacia la izquierda o derecha.
+
+Todo esto estaria marcado gracias a que el ultrasonido estaria marcando con el monitorseries y que el servomotor estaria unido a el para que vaya midiendo la distancia a su alrededor.
+
+Para ello hemos sacado la distancia minima y la maxima que llegaria ha ver el ultrasonido que son: El minimo son 2cm y el maximo son 300cm.Cuando sobrepasa los 300cm el monitor series te pondra que hay un error y que no puede llegar a medir la distancia.
 
 ## FOTOS DE COMO QUEDARIA EL ROBOT
 | perspectiva 1 | perspectiva 2 |
@@ -149,6 +155,7 @@ delay (200);
 
 ## LA EXPLICACION DEL CODIGO
 El codigo lo que va ha hacer es que el ultrasonido con ayuda del servomotor de vueltas haciendo que marque las distancias de las paredes haciendo que si esta más cerca de una pared se mueva para un lado y que si la pared este más alejadas se mueva para otro lado y asi infinitamente.
+
 Para ello hemos usado un void loop para el bucle, tambien emos marcado posiciones con pines de la placa le hemos puesto los nombres a sus serial.println que es tripitropi y por ultimo su posicion que seria la distancia minima y la distancia maxima que puede llegar a detectar el ultrasonido a algun objeto o pared.
 
 El resultado final de el codigo sera marcar la distancia de un objeto dependiendo de si esta más cerca o lejos y decidir dependiendo de la distancia ir hacia la derecha,izquierda o si seguir  recto.
