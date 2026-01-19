@@ -160,7 +160,7 @@ Para ello hemos usado un void loop para el bucle, tambien emos marcado posicione
 
 El resultado final de el codigo sera marcar la distancia de un objeto dependiendo de si esta más cerca o lejos y decidir dependiendo de la distancia ir hacia la derecha,izquierda o si seguir  recto.
 ## EL VIDEO DE REPRESENTACION
-
+[![][![](https://img.youtube.com/vi/AgffQcX96ZM/0.jpg)]
 
 ## OBJETIVO DE EL TRABAJO 
 El objetivo del trabajo es hacer que el ultrasonido marque unas distancia para que si aumente gire para un lado y si disminuya gire para rel otro
