@@ -109,11 +109,14 @@ Entonces una vez dicho los dos codigos que hay que unir las dos piezas de los do
 ## FOTOS DE COMO QUEDARIA EL ROBOT
 | perspectiva 1 | perspectiva 2 |
 |---------------|---------------|
+|![IMG_0351](https://github.com/user-attachments/assets/c841318b-8419-492b-be54-a7443120ad95)|![IMG_0352](https://github.com/user-attachments/assets/d3460584-bd95-4c63-8892-307f7fcaba8f)|
+
 
 
 ## Su codigo
 #include <Ultrasonic.h>
 #include <Servo.h>
+
 Servo servoMotor;
 
 const int pinMotor = 5;
@@ -143,3 +146,14 @@ servoMotor.write(posicion);
 delay (200);
 
 }
+
+## LA EXPLICACION DEL CODIGO
+El codigo lo que va ha hacer es que el ultrasonido con ayuda del servomotor de vueltas haciendo que marque las distancias de las paredes haciendo que si esta más cerca de una pared se mueva para un lado y que si la pared este más alejadas se mueva para otro lado y asi infinitamente.
+Para ello hemos usado un void loop para el bucle, tambien emos marcado posiciones con pines de la placa le hemos puesto los nombres a sus serial.println que es tripitropi y por ultimo su posicion que seria la distancia minima y la distancia maxima que puede llegar a detectar el ultrasonido a algun objeto o pared.
+
+El resultado final de el codigo sera marcar la distancia de un objeto dependiendo de si esta más cerca o lejos y decidir dependiendo de la distancia ir hacia la derecha,izquierda o si seguir  recto.
+## EL VIDEO DE REPRESENTACION
+
+
+## OBJETIVO DE EL TRABAJO 
+El objetivo del trabajo es hacer que el ultrasonido marque unas distancia para que si aumente gire para un lado y si disminuya gire para rel otro
