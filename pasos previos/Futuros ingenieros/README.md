@@ -6,6 +6,7 @@ Lo que vamos ha hacer en este poyecto es hacer un vehiculo impreso en 3D. El obj
 
 ## ¿QUE MATERIALES USA?
 Los materiales que usa son los siguientes:
+
 -2 motores
 
 -1 placa arduino
