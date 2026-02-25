@@ -1,17 +1,21 @@
 # OBJETIVOS PARA LA LECTURA
-- 1 ¿QUE ES LA VISION ARTIFICIAL?
 
-- 2 ¿COMÓ FUNCIONA LA VISION ARTIFICIAL?.
+1.¿QUÉ ES LA VISIÓN ARTIFICIAL?
 
-- 3 ¿QUE APLICACIONES TIENE?.
+2.¿CÓMO FUNCIONA LA VISIÓN ARTIFICIAL?
 
-- 4 ¿SELECCIONA UNA APLICACION Y EXPLICA SU UTILIDAD EN LA SOCIEDAD?
+3.¿QUÉ APLICACIONES TIENE?
+
+4.SELECCIONA UNA APLICACIÓN Y EXPLICA SU UTILIDAD EN LA SOCIEDAD.
+
 # RESPUESTAS DE LA LECTURA
-## 1 ¿QUE ES LA VISION ARTIFICIAL?
-Es una rama de la IA que permite a las máquinas "ver", analizar e interpretar imágenes y videos del mundo real para mejorar sus decisiones y para que no haya ningun margen de error en sus respuestas. 
-## 2 ¿COMÓ FUNCIONA LA VISION ARTIFICIAL?.
-La vision artificial funciona entrenando la inteligencia artificial con miles de imágenes para que aprendan a detectar patrones y tenga las respuestas de las fotos y los videos que le hemos enseñado haciendo que se guarde en su memoria esas respuestas por si alguien le pregunta lo mismo el ya sepa que responder en ese momento exacto.
-## 3 ¿QUE APLICACIONES TIENE?.
-Sus usos principales incluyen comunicación (WhatsApp), redes sociales (Instagram, TikTok),productividad (Teams, Office), entretenimiento (Netflix, juegos como Roblox).Aunque hay muchos más estos son los más importantes o los que más usamos hoy en día entre nosotros. 
-## 4 ¿SELECCIONA UNA APLICACION Y EXPLICA SU UTILIDAD EN LA SOCIEDAD?
-Classroom:Su utilidad es mantener las actividades escolares a los alumnos por si se ponen malo o faltan por culpa del clima o siplemente por si faltan a clase tenerlos atendiendo a su telefono por si le llega mensajes por hay. 
+## 1. ¿QUÉ ES LA VISIÓN ARTIFICIAL?
+Es una rama de la IA que permite a las máquinas "ver", analizar e interpretar imágenes y videos del mundo real para mejorar sus decisiones y para que no haya ningún margen de error en sus respuestas.
+## 2. ¿CÓMO FUNCIONA LA VISIÓN ARTIFICIAL?
+La visión artificial funciona entrenando la inteligencia artificial con miles de imágenes para que aprenda a detectar patrones y tenga las respuestas de las fotos y los videos que le hemos enseñado, haciendo que se guarden en su memoria esas respuestas por si alguien le pregunta lo mismo y ya sepa qué responder en ese momento exacto.
+## 3. ¿QUÉ APLICACIONES TIENE?
+Sus usos principales incluyen comunicación (WhatsApp), redes sociales (Instagram, TikTok), productividad (Teams, Office) y entretenimiento (Netflix, juegos como Roblox). Aunque hay muchos más, estos son los más importantes o los que más usamos hoy en día entre nosotros.
+## 4. SELECCIONA UNA APLICACIÓN Y EXPLICA SU UTILIDAD EN LA SOCIEDAD.
+Classroom: Su utilidad es mantener las actividades escolares disponibles para los alumnos por si se ponen malos o faltan por culpa del clima o simplemente por si faltan a clase, para que puedan atender desde su teléfono por si les llegan mensajes por ahí.
+
+(Faltas de ortografia corregidas por ChatGPT)
