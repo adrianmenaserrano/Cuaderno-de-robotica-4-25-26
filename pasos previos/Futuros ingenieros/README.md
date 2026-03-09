@@ -26,3 +26,4 @@ Los materiales que usa son los siguientes:
 
 -1 planta(suelo)
 
+# RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
