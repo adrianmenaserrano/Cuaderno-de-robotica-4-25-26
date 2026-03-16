@@ -27,5 +27,5 @@ Los materiales que usa son los siguientes:
 -1 planta(suelo)
 
 # RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
-![IMG_20260309_125822](https://github.com/user-attachments/assets/ab90966c-2f78-4b8a-997e-9a08b641860d)
+<img src= "Imágenes/IMG_1179.jpeg" width="500" height="500" />
 
