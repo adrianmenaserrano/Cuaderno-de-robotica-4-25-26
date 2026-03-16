@@ -8,24 +8,21 @@ Lo que vamos ha hacer en este poyecto es hacer un vehiculo impreso en 3D. El obj
 ## ¿QUE MATERIALES USA?
 Los materiales que usa son los siguientes:
 
--2 motores
+-2 motores de corriente continua con reductora
 
 -1 placa arduino
 
--3 ultrasonidos
-
--4 metagrilato
+-1 ultrasonidos
 
 -1 pollito
 
--1 escudo
+-1 escudo L298N
 
--1 bateria
+-2 baterias 3,7V 18650
 
--4 palos
-
--1 planta(suelo)
+-1 chasis
 
 # RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
 <img src= "Imagenes/IMG_1179.jpeg" width="500" height="500" /><img src= "Imagenes/IMG_1272.jpeg" width="500" height="500" />
 
+## ¿COO LO HEMOS HECHO
