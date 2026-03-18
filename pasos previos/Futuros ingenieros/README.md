@@ -39,7 +39,7 @@ Para ello, lo que hemos hecho ha sido medir cuánto mide, por ejemplo, la placa 
 Esta es la parte más estresante, sin ninguna duda, por la cantidad de cables que hay en un espacio tan reducido. Pero bueno, lo primero es saber qué cables necesitamos. Para ello, solo necesitamos cables macho-macho y macho-hembra. Aproximadamente, usamos unos 9 cables macho-hembra y 6 macho-macho.
 Una vez que tengamos los cables, habría que unirlos con las partes correspondientes. Lo primero que hay que hacer es conectar los 6 cables macho-macho al escudo, de forma que queden bien fijados (los ponemos en el escudo para poder controlar y programar los motores más tarde). Después, conectamos los cables macho-hembra que quedan entre el escudo y la placa Arduino que atornillamos antes.
 -------------------------------------------------------------------------------------------------------------------------------------------
-##3. La programación
+## 3. La programación
 
 Es un proceso que aún no hemos hecho, pero estamos en ello. La idea que tenemos es que el robot, utilizando un solo sensor ultrasónico (aunque en un principio pensábamos usar 3), pueda, con la ayuda de un servomotor, hacer que el sensor gire 180 grados. Así, el robot podrá detectar obstáculos e intentar recorrer un laberinto sin chocar.
 -------------------------------------------------------------------------------------------------------------------------------------------
