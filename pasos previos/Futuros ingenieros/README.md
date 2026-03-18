@@ -23,7 +23,9 @@ Los materiales que usa son los siguientes:
 -1 chasis
 
 # RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
-<img src= "Imagenes/IMG_1179.jpeg" width="500" height="500" /><img src= "Imagenes/IMG_1272.jpeg" width="500" height="500" />
+|           PARTE UNO DEL DISEÑO DEL ROBOT                     |             PARTE DOS DEL DISEÑO DEL ROBOT                   |
+|--------------------------------------------------------------|--------------------------------------------------------------|
+|<img src= "Imagenes/IMG_1179.jpeg" width="500" height="500" />|<img src= "Imagenes/IMG_1272.jpeg" width="500" height="500" />|
 
 ## ¿COMO LO HEMOS HECHO?
 ## Para hacer el robot lo hemos echo en varios pasos:
