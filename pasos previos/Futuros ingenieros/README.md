@@ -25,4 +25,13 @@ Los materiales que usa son los siguientes:
 # RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
 <img src= "Imagenes/IMG_1179.jpeg" width="500" height="500" /><img src= "Imagenes/IMG_1272.jpeg" width="500" height="500" />
 
-## ¿COO LO HEMOS HECHO
+## ¿COMO LO HEMOS HECHO?
+Para hacer el robot lo hemos echo en varios pasos:
+1 atornillar las placas a la base del robot.
+-para ello lo que hemos echo ha sido medir cuanto mide por ejemplo la placa arduino y luego medir la base para saber donde colocarlo y como colocarlo para que a la hora de atornollarlo no tengamos problemas con las demas cosas que hay que atornllar como el escudo y los motores.
+-----------------------------------------------------------------------------------------------------------------------------------------
+2 el cableado.
+-esta es la parte más extresante sin ninguna duda por la cantidad de cables que hay en un espacio tan reducido pero bueno lo primero es saber que cables necesitamos.Par ellos solo necesitamos macho macho y macho hembra para saber cuantos cables necestamos son unos 9 aprox de macho hembra y 6 macho macho.Una vez que tengamos los cables quedaria unir los cables con las partes que tocan.Lo primero que hay que unir son los 6 macho macho al escudo de forma que se queden pegados al escudo(Los ponemos en el escudo para que se pueda controlar y programar los motores más tarde). luego con la placa arduino que atornillamos antes lo conectamos a la placa arduin los cables macho hembra que queden.
+-------------------------------------------------------------------------------------------------------------------------------------------
+3 la programacion.
+-es un proceso que aun no hemos hecho pero estaos en proceso de hacerlo.
