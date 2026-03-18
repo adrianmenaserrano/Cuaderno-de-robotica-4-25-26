@@ -30,15 +30,23 @@ Los materiales que usa son los siguientes:
 ## ¿COMO LO HEMOS HECHO?
 ## Para hacer el robot lo hemos echo en varios pasos:
 
-## 1 atornillar las placas a la base del robot.
+## 1. Atornillar las placas a la base del robot
 
--Para ello lo que hemos echo ha sido medir cuanto mide por ejemplo la placa arduino y luego medir la base para saber donde colocarlo y como colocarlo para que a la hora de atornollarlo no tengamos problemas con las demas cosas que hay que atornllar como el escudo y los motores.
+Para ello, lo que hemos hecho ha sido medir cuánto mide, por ejemplo, la placa Arduino y luego medir la base para saber dónde colocarla y cómo hacerlo. De esta manera, a la hora de atornillarla no tendremos problemas con las demás piezas que también hay que fijar, como el escudo y los motores.
 -----------------------------------------------------------------------------------------------------------------------------------------
-## 2 el cableado.
+## 2. El cableado
 
--Esta es la parte más extresante sin ninguna duda por la cantidad de cables que hay en un espacio tan reducido pero bueno lo primero es saber que cables necesitamos.Par ellos solo necesitamos macho macho y macho hembra para saber cuantos cables necestamos son unos 9 aprox de macho hembra y 6 macho macho.Una vez que tengamos los cables quedaria unir los cables con las partes que tocan.Lo primero que hay que unir son los 6 macho macho al escudo de forma que se queden pegados al escudo(Los ponemos en el escudo para que se pueda controlar y programar los motores más tarde). luego con la placa arduino que atornillamos antes lo conectamos a la placa arduin los cables macho hembra que queden.
+Esta es la parte más estresante, sin ninguna duda, por la cantidad de cables que hay en un espacio tan reducido. Pero bueno, lo primero es saber qué cables necesitamos. Para ello, solo necesitamos cables macho-macho y macho-hembra. Aproximadamente, usamos unos 9 cables macho-hembra y 6 macho-macho.
+Una vez que tengamos los cables, habría que unirlos con las partes correspondientes. Lo primero que hay que hacer es conectar los 6 cables macho-macho al escudo, de forma que queden bien fijados (los ponemos en el escudo para poder controlar y programar los motores más tarde). Después, conectamos los cables macho-hembra que quedan entre el escudo y la placa Arduino que atornillamos antes.
 -------------------------------------------------------------------------------------------------------------------------------------------
-## 3 la programacion.
+##3. La programación
 
--Es un proceso que aun no hemos hecho pero estaos en proceso de hacerlo pero la idea que tenemos en mete hacer es que el robot con un solo ultrasondo(porque la idea era tener 3) hacer que con la ayuda del servomotor el ultrasonido este dande vueltas de 180 grados para intentar pasar por un laberinto sin chocarse.
+Es un proceso que aún no hemos hecho, pero estamos en ello. La idea que tenemos es que el robot, utilizando un solo sensor ultrasónico (aunque en un principio pensábamos usar 3), pueda, con la ayuda de un servomotor, hacer que el sensor gire 180 grados. Así, el robot podrá detectar obstáculos e intentar recorrer un laberinto sin chocar.
 -------------------------------------------------------------------------------------------------------------------------------------------
+(corregido por chatGPT)
+## ¿CUAL ES EL FIN DE TODO ESTO?
+El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el robot pueda pasar or un laberito que cambia y se hace más dificil cada día que pase y lo que tiene que hacer el robot es conseguir que pase el laberinto sin chocarse ninguna vez.
+## ¿QUE OBJETOS HEMOS UTILIZADO?
+-2 Motor: esto lo que hace es darle la movlidad al robot que para ello hemos tenido que atornillar a la base no sin antes medir el espacio que tiene  para que ocupe el minimo espacio posible antes de colocarlo y atornillarlo.
+-1 Escudo: esto lo que hace es que la programacion que le demos al robot se la pase al escudo y del escudo al motor para darle movilidad.
+-1 Placa arduino:esto sirve para que se pueda programar para que haga todas las funciones que he mencionado arriba que luego pasara una vez terminado la programacion pase al escudo y del escudo a los motores
