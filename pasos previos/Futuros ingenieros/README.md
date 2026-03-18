@@ -23,7 +23,7 @@ Los materiales que usa son los siguientes:
 -1 chasis
 
 # RESULTADO DE COMO QUEDARIA EL ROBOT CON SUS PIEZAS.
-|           PARTE UNO DEL DISEÑO DEL ROBOT                     |             PARTE DOS DEL DISEÑO DEL ROBOT                   |
+|           PARTE UNO DEL DISEÑO DEL ROBOT DES EL ENFRENTE    |        PARTE DOS DEL DISEÑO DEL ROBOT DESDE ARRIBA            |      
 |--------------------------------------------------------------|--------------------------------------------------------------|
 |<img src= "Imagenes/IMG_1179.jpeg" width="500" height="500" />|<img src= "Imagenes/IMG_1272.jpeg" width="500" height="500" />|
 
