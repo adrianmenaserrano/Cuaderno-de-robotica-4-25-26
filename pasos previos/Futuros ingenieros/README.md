@@ -1,4 +1,4 @@
-# FOTO DE COMO QUEDARIA MI PLACA DEL PROYECTO.
+# FOTO DE COMO QUEDARIA MI ROBOT DEL PROYECTO.
 <img width="1260" height="642" alt="Brilliant Bigery-Curcan (3)" src="https://github.com/user-attachments/assets/178e95f0-ee44-48ed-a031-e6b4355e0c90" />
 
 
