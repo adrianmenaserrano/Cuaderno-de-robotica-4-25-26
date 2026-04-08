@@ -50,3 +50,5 @@ El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el 
 -2 Motor: esto lo que hace es darle la movlidad al robot que para ello hemos tenido que atornillar a la base no sin antes medir el espacio que tiene  para que ocupe el minimo espacio posible antes de colocarlo y atornillarlo.
 -1 Escudo: esto lo que hace es que la programacion que le demos al robot se la pase al escudo y del escudo al motor para darle movilidad.
 -1 Placa arduino:esto sirve para que se pueda programar para que haga todas las funciones que he mencionado arriba que luego pasara una vez terminado la programacion pase al escudo y del escudo a los motores
+
+## FOTOS DEL ROBOT SEMI MONTADO
