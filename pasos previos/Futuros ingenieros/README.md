@@ -52,4 +52,4 @@ El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el 
 -1 Placa arduino:esto sirve para que se pueda programar para que haga todas las funciones que he mencionado arriba que luego pasara una vez terminado la programacion pase al escudo y del escudo a los motores
 
 ## FOTOS DEL ROBOT SEMI MONTADO
-<img src= "Imagenes/vvvvv.jpeg" width="500" height="500" />
+<img src= "Imagenes/vvvvv.jpg" width="500" height="500" />
