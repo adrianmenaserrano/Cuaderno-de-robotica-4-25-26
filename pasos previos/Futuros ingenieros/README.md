@@ -51,7 +51,7 @@ El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el 
 -1 Escudo: esto lo que hace es que la programacion que le demos al robot se la pase al escudo y del escudo al motor para darle movilidad.
 -1 Placa arduino:esto sirve para que se pueda programar para que haga todas las funciones que he mencionado arriba que luego pasara una vez terminado la programacion pase al escudo y del escudo a los motores
 
-## FOTO+VIDEO DEL ROBOT SEMI MONTADO
+## FOTO DEL ROBOT.
 |        PARTE DOS DEL DISEÑO DEL ROBOT DESDE ARRIBA           |                
 |--------------------------------------------------------------|
 |<img src= "Imagenes/vvvvv.jpg" width="500" height="500" />    |                                                              
