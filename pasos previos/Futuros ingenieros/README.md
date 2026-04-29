@@ -79,6 +79,7 @@ El cuarto ejercicio consiste en que con la ayuda del ultrasonido lo que va ha ha
 
 ## 5 Detectar la pared más lejana
 [![](https://img.youtube.com/vi/uuJXEzctWdo/0.jpg)](https://www.youtube.com/watch?v=uuJXEzctWdo)
+
 El quinto lo que hace es detectar la pared que más lejos este y dependiendo si la pared más lejana esta a la izquierda o ha la derecha se ira para un lado o para el otro.
 
-El quinto reto lo que hara es que al detectar la pared con las ayuda del servomotor va ha mirar hacia la izquierda y hacia la derecha
+
