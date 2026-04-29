@@ -55,3 +55,7 @@ El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el 
 |        PARTE DOS DEL DISEÑO DEL ROBOT DESDE ARRIBA           |                  VIDEO DEL ROBOT                             |
 |--------------------------------------------------------------|--------------------------------------------------------------|
 |<img src= "Imagenes/vvvvv.jpg" width="500" height="500" />    |                                                              |
+
+# RETOS
+
+qjQLPe0YbU4
