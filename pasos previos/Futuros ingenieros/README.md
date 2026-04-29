@@ -52,10 +52,23 @@ El fin de todo esto es construir programar y hacer que aprenda ha hacer  que el 
 -1 Placa arduino:esto sirve para que se pueda programar para que haga todas las funciones que he mencionado arriba que luego pasara una vez terminado la programacion pase al escudo y del escudo a los motores
 
 ## FOTO+VIDEO DEL ROBOT SEMI MONTADO
-|        PARTE DOS DEL DISEÑO DEL ROBOT DESDE ARRIBA           |                  VIDEO DEL ROBOT                             |
-|--------------------------------------------------------------|--------------------------------------------------------------|
-|<img src= "Imagenes/vvvvv.jpg" width="500" height="500" />    |                                                              |
+|        PARTE DOS DEL DISEÑO DEL ROBOT DESDE ARRIBA           |                
+|--------------------------------------------------------------|
+|<img src= "Imagenes/vvvvv.jpg" width="500" height="500" />    |                                                              
 
 # RETOS
+## 1 el giro del servomotor
 [![](https://img.youtube.com/vi/qjQLPe0YbU4/0.jpg)](https://www.youtube.com/watch?v=qjQLPe0YbU4)
+El reto uno consiste en hacer que el servo motor haga que el ultrasonido gire en 0 90 y 180 grados.
 
+## 2 Marcar la distancia del ultrasonido
+[![](https://img.youtube.com/vi/m6MNIqrkrx4/0.jpg)](https://www.youtube.com/watch?v=m6MNIqrkrx4)
+El reto dos consiste en con el codigo marcar datos que vaya haciendo en el monitorSeries.
+
+## 3 Que pueda ir hacia adelante y hacia atras
+[![](https://img.youtube.com/vi/ZSjYsuk3554/0.jpg)](https://www.youtube.com/watch?v=ZSjYsuk3554)
+El reto tres consiste en el que el robot con ayuda de los motores pueda ir hacia adelante y hacia atras
+
+## 4 marcar la distancia y quedarse quieto.
+[![](https://img.youtube.com/vi/UCqJFzujzTE/0.jpg)](https://www.youtube.com/watch?v=UCqJFzujzTE)
+El cuarto ejercicio consiste en que con la ayuda del ultrasonido lo que va ha hacer es que si se encuentra una estructura en el momento que marque en el monitorSeries menos de 20 cm el robot se quedara quieto.
