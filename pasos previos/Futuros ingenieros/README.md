@@ -86,3 +86,14 @@ El quinto lo que hace es detectar la pared que más lejos este y dependiendo si 
 
 
 # PROGRAMACION DE LOS RETOS
+## PARTE 1
+<img width="612" height="803" alt="codigo parte 2 1" src="https://github.com/user-attachments/assets/f999fa7e-993b-4080-b242-9fef090e013c" />
+
+## PARTE 2
+<img width="533" height="857" alt="codigo parte 2" src="https://github.com/user-attachments/assets/c129b80d-851f-4e0a-ba69-36b9141392fb" />
+
+## PARTE 3
+<img width="612" height="803" alt="codigo parte tres" src="https://github.com/user-attachments/assets/87df4aba-3972-4b35-a550-ca0fcb0afc91" />
+
+## PARTE 4
+<img width="407" height="157" alt="codigo final" src="https://github.com/user-attachments/assets/f39db7e1-ceb7-4256-b14f-eb055e47a74a" />
