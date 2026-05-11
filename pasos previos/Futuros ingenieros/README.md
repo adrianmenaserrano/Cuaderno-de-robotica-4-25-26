@@ -98,6 +98,8 @@ El quinto lo que hace es detectar la pared que más lejos este y dependiendo si 
 ## RETO 4
 <img width="261" height="409" alt="image" src="https://github.com/user-attachments/assets/ec8e3d20-57d5-41eb-a3b2-889005a25f34" />
 
+## RETO 5
+<img width="221" height="475" alt="image" src="https://github.com/user-attachments/assets/a114e55c-0f49-4a05-941a-c98db534a9f9" />
 
 # PROGRAMACION DEL RETO FINAL
 ## PARTE 1
