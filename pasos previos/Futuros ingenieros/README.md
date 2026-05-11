@@ -82,4 +82,4 @@ El cuarto ejercicio consiste en que con la ayuda del ultrasonido lo que va ha ha
 
 El quinto lo que hace es detectar la pared que más lejos este y dependiendo si la pared más lejana esta a la izquierda o ha la derecha se ira para un lado o para el otro.
 
-
+## 6  6 EL ROBOT GIRA HACIA LA PARED MÁS LEJANA.
