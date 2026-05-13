@@ -114,3 +114,6 @@ Lo que hace este reto es que el robot lo vamos a poner en un situacion donde hay
 
 ## PARTE 4
 <img width="407" height="157" alt="codigo final" src="https://github.com/user-attachments/assets/f39db7e1-ceb7-4256-b14f-eb055e47a74a" />
+
+# DIADRAMA DE FLUJO
+<img width="290" height="293" alt="image" src="https://github.com/user-attachments/assets/2e541686-f03d-4477-8c17-f8f87e19671c" />
