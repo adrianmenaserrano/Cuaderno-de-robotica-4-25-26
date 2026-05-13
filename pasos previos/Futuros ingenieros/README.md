@@ -83,8 +83,8 @@ El cuarto ejercicio consiste en que con la ayuda del ultrasonido lo que va ha ha
 El quinto lo que hace es detectar la pared que más lejos este y dependiendo si la pared más lejana esta a la izquierda o ha la derecha se ira para un lado o para el otro.
 
 ## 6 EL ROBOT GIRA HACIA LA PARED MÁS LEJANA.
-
-
+(No tengo el video)
+Lo que hace este reto es que el robot lo vamos a poner en un situacion donde haya una pared que este muy cerca del robot y otra pared que este muy lejos entonces lo que tiene que hacer el robot es que si la pared más lejana es la de la derecha el robot con el ultrasonido detectara las dos paaredes y decidira cual de las dos paredes este más lejos si la pared de la derecha est más lejos el robot dara un giro asta ponerse en direccion a esa pared y avanzara hacia la pared más lejana.
 # PROGRAMACION DE LOS RETOS
 ## RETO 1
 <img width="318" height="481" alt="image" src="https://github.com/user-attachments/assets/4603c2ad-fad5-42d0-89d5-2a47e04917ed" />
