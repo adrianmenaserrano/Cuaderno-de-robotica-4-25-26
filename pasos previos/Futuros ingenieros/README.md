@@ -90,18 +90,23 @@ Lo que hace este reto es que el robot lo vamos a poner en un situacion donde hay
 ## RETO 1
 <img width="318" height="481" alt="image" src="https://github.com/user-attachments/assets/4603c2ad-fad5-42d0-89d5-2a47e04917ed" />
 
+Made by gaditano
 ## RETO 2 
 <img width="318" height="481" alt="image" src="https://github.com/user-attachments/assets/1cb0b72c-8cd1-488d-b698-651223fa4c45" />
 
+Made by  gaditano
 ## RETO 3
 <img width="267" height="455" alt="image" src="https://github.com/user-attachments/assets/4a838249-021c-460c-9387-e54baa83c041" />
 
+Made by gaditano
 ## RETO 4
 <img width="261" height="409" alt="image" src="https://github.com/user-attachments/assets/ec8e3d20-57d5-41eb-a3b2-889005a25f34" />
 
+Made by  gaditano
 ## RETO 5
 <img width="221" height="475" alt="image" src="https://github.com/user-attachments/assets/a114e55c-0f49-4a05-941a-c98db534a9f9" />
 
+Made by  gaditano
 # PROGRAMACION DEL RETO FINAL
 ## PARTE 1
 <img width="533" height="857" alt="codigo parte 2" src="https://github.com/user-attachments/assets/c129b80d-851f-4e0a-ba69-36b9141392fb" />
